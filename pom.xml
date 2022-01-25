@@ -18,7 +18,8 @@
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
-  <build>
+  <build>  
+      <finalName>java-jenkins-docker</finalName>
     <pluginManagement>
       <plugins>
         <plugin>
